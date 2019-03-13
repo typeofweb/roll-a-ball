@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/RollABall.unity
     guid: 87978fdfbd1d2481e96d8d99f542fa21
   m_configObjects: {}
